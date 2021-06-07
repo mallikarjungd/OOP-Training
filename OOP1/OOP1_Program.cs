@@ -87,7 +87,7 @@ namespace OOP1
         }
     }
 
-     interface IInterface1
+     interface IInterface1       //interface
     {
 
     }
