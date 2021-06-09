@@ -17,10 +17,6 @@ namespace ConsoleApplication1
         int variable1 = 0;
         public int fun1()
         {
-            int i = 10;
-            int j = 20;
-            variable1 = i * j;
-            
             return variable1;
         }
     }
