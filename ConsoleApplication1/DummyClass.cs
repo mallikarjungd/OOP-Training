@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class DummyClass
+    public class DummyClass
     {
-
+        public DummyClass()
+        {
+            int i=10;
+        }
 
     }
 }
