@@ -9,6 +9,10 @@ namespace ConsoleApplication1
     class DummyClass
     {
 
-
+        int variable1 = 0;
+        public int fun1()
+        {
+            return variable1;
+        }
     }
 }
