@@ -13,7 +13,7 @@ namespace OOP2
         {
             OOP1.MyClass myClass = new MyClass();
 
-            myClass.publicVariable = "jed";
+            myClass.publicVariable = "jedasdf";
 
            
             
