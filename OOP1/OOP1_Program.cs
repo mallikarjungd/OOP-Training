@@ -20,6 +20,11 @@ namespace OOP1
             
         }
 
+        public void gitTraining1()
+        {
+
+        }
+
     }
 
     public class MyClass
